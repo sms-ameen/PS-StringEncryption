@@ -1,1 +1,1 @@
-PS-StringEncryption
+String encryption using PwerShell
